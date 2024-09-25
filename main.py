@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 
 username = ("353877764@educ.dpcdsb.org")
-password = ("Mustanger56")
+password = ("enterhere")
 
 options=Options()
 options.add_argument("--disable-notifications")
